@@ -1,0 +1,33 @@
+.feedbacks {
+    background: #FFD330;
+    border-radius: 10px;
+    padding: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 24px 72px;
+}
+
+.feedbacks-container {
+    background: rgba(0, 34, 109, 0.5);
+    padding-bottom: 50px;
+}
+
+.feedbacks-container h2 {
+    font-size: 50px;
+    text-align: center;
+    color: #FFD330;
+    flex-grow: 1;
+    padding-top: 50px;
+    
+}
+    
+.f-container {
+    justify-content: space-evenly;
+}
+
+.feedbacks img{
+        width: 240px;
+        border-radius: 10%;
+}
+    

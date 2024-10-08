@@ -1,0 +1,18 @@
+.bottom-container {
+    display: flex;
+    justify-content: space-around;
+    width: auto;
+    background-image: url(../../images/Mer.jpg);
+    background-size: cover;
+}
+
+.bottom-container-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.bottom-container-right iframe{
+    width: 665px;
+}

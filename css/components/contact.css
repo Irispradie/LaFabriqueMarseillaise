@@ -1,0 +1,9 @@
+.c-container{
+    display: flex;
+    justify-content: center;
+}
+
+.contact img {
+    width: 400px;
+    height: 400px;
+}

@@ -1,0 +1,39 @@
+.btn-blue{
+    background-color: #172534;
+    padding: 15px;
+    border-radius: 4px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+
+
+.btn-yellow {
+    background-color: #FFD330;
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #FFD330;
+    padding: 200px 200px;
+    margin-top: -50px;
+}
+
+
+.btn-yellow:hover{
+    background-color: white;
+    font-size: 50px;
+    color: #FFD330;
+    font-weight: bolder;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #FFD330;
+    padding: 210px 210px;
+    margin-top: -50px;
+}
+
